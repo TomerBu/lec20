@@ -1,0 +1,6 @@
+// Override default variables before the import
+$info: rgb(255, 213, 0);// #0dcaf0;
+$danger: #000; //#dc3545;
+
+// in css we can import other css files:
+@import "~bootstrap/scss/bootstrap.scss";
